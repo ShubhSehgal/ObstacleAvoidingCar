@@ -2,6 +2,7 @@
 Code for small car controlled using an Arduino and Ultrasonic Sensor to detect and avoid obstacles. 
 
 Video of Car: https://www.youtube.com/watch?v=yoW-r739SYg&feature=youtu.be
+
 Link to Blog: https://medium.com/@shubhsehgal03/arduino-obstacle-avoiding-car-project-c9cfb818f50b
 
 How it Works 
